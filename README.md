@@ -6,7 +6,7 @@ Sistema para exemplificar a construção de um cadastro em Angular
 ## Status do Projeto
 Concluído
 
-### Como rodar a aplicação
+## Como rodar a aplicação
  1. Faça o download do projeto
  2. Entre na pasta do projeto
  3. Instale as dependências em cada pasta do projeto
