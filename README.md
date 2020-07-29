@@ -6,6 +6,11 @@ Sistema para exemplificar a construção de um cadastro em Angular
 ## Status do Projeto
 Concluído
 
+## :rocket: Technologies
+
+- ⚛️ **Angular Js**
+- 💹 **Node Js**
+
 ## Como rodar a aplicação
  1. Faça o download do projeto
  2. Entre na pasta do projeto
