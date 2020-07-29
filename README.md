@@ -6,11 +6,6 @@ Sistema para exemplificar a construção de um cadastro em Angular
 ## Status do Projeto
 Concluído
 
-### Run
-As seguintes tecnologias são usadas nesse projeto:
- - Node
- - Angular
-
 ### Como rodar a aplicação
  1. Faça o download do projeto
  2. Entre na pasta do projeto
