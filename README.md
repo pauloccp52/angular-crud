@@ -12,8 +12,9 @@ As seguintes tecnologias são usadas nesse projeto:
  - Angular
 
 ### Como rodar a aplicação
- - Faça o download do projeto.
- - Entre na pasta do projeto.
- - Instale as dependências em cada pasta do projeto.
- - Pasta backend ```npm i json-server```
- - Pasta frontend ```npm i -g @angular/cli```
+ 1. Faça o download do projeto
+ 2. Entre na pasta do projeto
+ 3. Instale as dependências em cada pasta do projeto
+    - Pasta backend ```npm i json-server```
+    - Pasta frontend ```npm i -g @angular/cli```
+ 4. Rode a aplicação ```npm start```
