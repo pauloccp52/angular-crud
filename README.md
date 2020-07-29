@@ -35,3 +35,7 @@ $ npm install
 # Executando a aplicação
 $ npm start
 ```
+
+## :memo: License
+
+Este projeto está sob a licença MIT.
