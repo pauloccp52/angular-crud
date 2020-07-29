@@ -20,7 +20,7 @@ $ cd backend
 # Instalando as dependências
 $ npm i json-server
 
-# Rode a aplicação
+# Executando a aplicação
 $ npm start
 ```
 
@@ -32,6 +32,6 @@ $ cd frontend
 # Instalando as dependências
 $ npm install
 
-# Rode a aplicação
+# Executando a aplicação
 $ npm start
 ```
