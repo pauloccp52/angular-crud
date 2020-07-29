@@ -15,5 +15,5 @@ As seguintes tecnologias são usadas nesse projeto:
  - Faça o download do projeto.
  - Entre na pasta do projeto.
  - Instale as dependências em cada pasta do projeto.
- - Pasta backend '''npm i json-server'''
- - Pasta frontend '''npm i -g @angular/cli'''
+ - Pasta backend ```npm i json-server```
+ - Pasta frontend ```npm i -g @angular/cli```
