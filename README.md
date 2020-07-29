@@ -6,15 +6,32 @@ Sistema para exemplificar a construção de um cadastro em Angular
 ## Status do Projeto
 Concluído
 
-## :rocket: Technologies
+## :rocket: Tecnologias
+- **Angular Js**
+- **Node Js**
 
-- ⚛️ **Angular Js**
-- 💹 **Node Js**
+## :information_source: Como rodar a aplicação
 
-## Como rodar a aplicação
- 1. Faça o download do projeto
- 2. Entre na pasta do projeto
- 3. Instale as dependências em cada pasta do projeto
-    - Pasta backend ```npm i json-server```
-    - Pasta frontend ```npm install```
- 4. Rode a aplicação ```npm start```
+### backend
+```bash
+# Entre no diretório da pasta
+$ cd backend
+
+# Instalando as dependências
+$ npm i json-server
+
+# Rode a aplicação
+$ npm start
+```
+
+### frontend
+```bash
+# Entre no diretório da pasta
+$ cd frontend
+
+# Instalando as dependências
+$ npm install
+
+# Rode a aplicação
+$ npm start
+```
